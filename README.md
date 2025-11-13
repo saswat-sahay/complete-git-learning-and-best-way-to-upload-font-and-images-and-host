@@ -11,3 +11,5 @@ steps:
 2. click on the pages, check reference from step 2.png image
 3. change the branch from none to main and save, check reference from step 3.png image
 4. wait for some time to host it and just enjoy
+5. change your project and it will reflect in your published website within minutes
+6. if you're not able to see the changes do the hard reload (ctrl + shift + r)
