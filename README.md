@@ -13,3 +13,12 @@ steps:
 4. wait for some time to host it and just enjoy
 5. change your project and it will reflect in your published website within minutes
 6. if you're not able to see the changes do the hard reload (ctrl + shift + r)
+
+How to Back track in your project
+git reset --hard HEAD~number of itereation you want to go back
+
+e.g. if you want to go back one step
+git reset --hard HEAD~1
+
+e.g. if you want to go back two step
+git reset --hard HEAD~2
