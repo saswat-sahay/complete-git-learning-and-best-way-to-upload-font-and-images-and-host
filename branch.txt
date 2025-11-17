@@ -3,3 +3,4 @@ this is my new branch and i am writing this second line on only newbranch
 hey
 stashing
 lets do stash
+var a = 12;
